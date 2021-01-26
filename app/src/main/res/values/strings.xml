@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Ecostate</string>
+    <string name="title_news">News</string>
+    <string name="title_astuce">Astuces</string>
+    <string name="title_map">Carte</string>
+    <string name="title_stats">Statistiques</string>
+    <string name="title_settings">Paramètres</string>
+    <string name="title_deficomm">Défis Communautaires</string>
+    <string name="onglet_1">News</string>
+    <string name="onglet_2">Astuces</string>
+    <string name="onglet_3">Carte</string>
+    <string name="onglet_4">Statistiques</string>
+    <string name="onglet_5">Paramètres</string>
+    <string name="channel_name">notif</string>
+    <string name="channel_description">little descp</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F729B</color>
+    <color name="colorPrimaryDark">#1C2331</color>
+    <color name="colorAccent">#B1DEB3</color>
+    <color name="Ecostate_green">#3F729B</color>
+    <color name="nav_item_state_list">#1C2331</color>
+</resources>
